@@ -290,6 +290,21 @@ files:
         implementation group: 'org.hibernate', name: 'hibernate-validator', version: '6.1.0.Final'
     }
   learner_created: false
+- name: src/account/controller/UserController.java
+  visible: true
+  learner_created: true
+- name: src/account/entity/UserModel.java
+  visible: true
+  learner_created: true
+- name: src/account/dto/UserDto.java
+  visible: true
+  learner_created: true
+- name: src/account/entity/CustomErrorResponse.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/16601#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 02 Aug 2023 12:42:51 UTC"
 record: -1
